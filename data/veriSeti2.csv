@@ -1,0 +1,50 @@
+Müşteri Sorusu (SORU),Temsilci Cevabı (CEVAP)
+"Merhaba, 24xx sunucu kiralamak istiyorum ama 1 yıllık peşin ödeme yapmak istemiyorum. Aylık seçenek var mı?","Merhabalar, 24xx sunucularımızda yıllık kampanya nedeniyle aylık kiralama seçeneğimiz maalesef mevcut değildir. Sadece 1299 sunucularda aylık kiralama yapabilirsiniz."
+
+"Selam, sunucuyu alsak ne kadar sürede kurup teslim ediyorsunuz?","Merhaba efendim, seçtiğiniz sunucuya ve ek taleplerinize göre değişmekle birlikte ortalama kurulum süremiz 30-35 dakikadır."
+
+"Fiziksel sunucularda ekran kartı seçenekleriniz neler?","Elbette, ekran kartlı fiziksel sunucularımızı bu linkten inceleyebilirsiniz: https://poyrazbilisim.com.tr/gpuserver"
+
+"İyi günler, sunucuma domain bağlayabilir miyim yoksa sadece ip ile mi gireceğiz?","İyi günler, bizden aldığınız hizmette domain hizmeti bulunmamaktadır. Sunucuya sadece IP adresi üzerinden erişim sağlanmaktadır. Dilerseniz farklı bir firmadan domain alıp sunucu IP adresine yönlendirebilirsiniz."
+
+Sunucularda bot sistemi var mı? Özellikle 24xx için soruyorum.,1299 sunucularda bot sistemi yoktur. 24xx sunucularda ise mevcuttur.
+
+Özel bir DB kurdurmak istesek maliyeti ne olur?,"Eğer standart dışı, özel bir veritabanı kurulacaksa bir kerelik 5000 TL ek ücreti bulunmaktadır. Bu ücret doğrudan veritabanı uzmanına aktarılmaktadır."
+
+Sunucularınızın lokasyonu nerede? / Sunucular Türkiye'de mi?,"Evet, tüm fiziksel ve sanal sunucularımız Türkiye lokasyonludur. Bu sayede düşük gecikme (ping) süreleri elde edersiniz."
+
+Sunucuyu aldıktan sonra kurulum ne kadar sürüyor? / Sunucum ne zaman teslim edilir?,Ortalama kurulum ve teslimat süremiz 30-35 dakikadır. Özel taleplerde bu süre biraz daha uzayabilir.
+
+Sunucuma kendi domainimi (alan adımı) bağlayabilir miyim?,"Hayır, firmamız domain hizmeti sunmamaktadır. Sunucuya erişim size verilen IP adresi üzerinden sağlanır. Ancak farklı bir firmadan aldığınız domaini sunucu IP'nize yönlendirebilirsiniz."
+
+Hangi işletim sistemlerini kurabiliyorsunuz? / Windows kuruyor musunuz?,"Standart olarak Windows Server ve popüler Linux dağıtımlarını (Ubuntu, CentOS vb.) kuruyoruz. Özel bir işletim sistemi talebiniz varsa destek ekibimizle görüşebilirsiniz."
+
+DDoS korumanız var mı? / Saldırılara karşı koruma sağlıyor musunuz?,"Evet, tüm sunucularımızda yurt içi ve yurt dışı kaynaklı DDoS saldırılarına karşı gelişmiş koruma katmanı standart olarak sunulmaktadır."
+
+Sunucuya format atabilir miyim? / İşletim sistemini yeniden kurabilir miyim?,"Destek talebi açarsanız, dakikalar içinde halledilecektir."
+
+Fiziksel sunucu ile sanal sunucu (VDS/VPS) arasındaki fark nedir?,"Fiziksel sunucuda tüm donanım kaynakları (CPU, RAM, Disk) tamamen size aittir. Sanal sunucu ise bir fiziksel sunucunun mantıksal olarak bölünmesiyle oluşturulur ve kaynaklar garantili şekilde size atanır."
+
+1299 sunucu özelliklerini detaylı öğrenebilir miyim? / v1299 paket detayları nedir?,"1299 sunucularımızın tüm teknik detayları, databaseleri ve özellikleri forum sitemizde mevcuttur: https://forum.poyrazbilisim.com/forums/ko-v1299-%C3%96zellikleri.10/"
+
+24xx sunucularda hangi özellikler var? / 24xx paketini anlatır mısınız?,24xx sunucularımızın özellikleri ve getirdiği yenilikler için bu linki inceleyebilirsiniz: https://forum.poyrazbilisim.com/threads/24xx-%C3%96zellikleri.26/
+
+1299 sunucularda bot sistemi mevcut mu?,"Hayır, 1299 sunucularımızda dahili bir bot sistemi bulunmamaktadır."
+
+24xx sunucularda bot sistemi var mı?,"Evet, 24xx sunucularımızda dahili bot sistemi mevcuttur."
+
+Knight Online oynamak için ekran kartlı sanal sunucu (GPU VPS) alabilir miyim?,"Kesinlikle. Ekran kartlı sanal sunucularımız, Knight Online gibi oyunları birden fazla istemci ile çalıştırmak ve macro/bot uygulamalarını sorunsuzca kullanmak için özel olarak optimize edilmiştir. İncelemek için: https://poyrazbilisim.com.tr/gpuvpsserver"
+
+Ekran kartlı fiziksel sunucularınız var mı? / Render veya mining için sunucu var mı?,"Evet, yüksek performans gerektiren işlemler için ekran kartlı fiziksel sunucu seçeneklerimiz mevcuttur. Paketlerimizi buradan inceleyebilirsiniz: https://poyrazbilisim.com.tr/gpuserver"
+
+"""Haydargame'e kadar üyelik"" ne anlama geliyor?","Bu, 24xx yıllık kiralama kampanyamıza özel bir hizmettir. Sunucunuzu, oyun içi bir sistem olan Haydargame üyeliği aktif edilmiş ve tüm ayarları yapılmış şekilde size teslim ediyoruz."
+
+Sunucuyu aylık kiralayabilir miyim? / Aylık ödeme seçeneği var mı?,"299 sunucularımızda aylık kiralama seçeneği mevcuttur. Ancak 24xx sunucularımız şu an için sadece özel yıllık kampanya ile kiralanmaktadır, aylık seçeneği yoktur."
+
+24xx sunucu kiralama kampanyası tam olarak nedir?,Özel bir kampanya yaptık. 1 yıllık 15.000 TL ödüyorsunuz diğer aylar 600 TL sunucu kiralama bedeli ve pus gelirinden %40 alıyoruz. Haydargame'e kadar üyeliğinize kadar açıp teslim ediyoruz.Özel db olucaksa 1 kerelik 5000 TL db ve client editlenmesi. bunu biz almıyoruz direk db ci alıyor. Detaylar için +90 850 308 5188 arayınız. 24xx farm nightonlinetr.com . 1098 myko dewilboysko.com .  indirip test edebilirsiniz.
+
+Özel veritabanı (DB) kurulumu ücretli mi?,"Standart DB kurulumu ücretsizdir. Ancak tamamen size özel bir DB ve client düzenlemesi isterseniz, bunun için veritabanı uzmanının aldığı 5.000 TL'lik tek seferlik bir ücret bulunmaktadır."
+
+"Teknik desteğe nasıl ulaşabilirim? / Acil bir sorunum var, ne yapmalıyım?",Teknik desteğe en hızlı şekilde 0850 308 5188 numaralı WhatsApp hattımızdan veya panel.poyrazbilisim.com.tr adresindeki müşteri panelinizden destek talebi oluşturarak ulaşabilirsiniz.
+
+Sunucu kiralama süreci hakkında detaylı bilgi almak istiyorum.,"Elbette, kiralama süreci ve size en uygun sunucuyu belirlemek için destek ekibimizle görüşebilirsiniz. WhatsApp: https://wa.me/908503085188"
